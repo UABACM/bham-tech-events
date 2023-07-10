@@ -5,12 +5,12 @@
 2. [Tech Events in and around Birmingham](#Tech-Events-in-and-around-Birmingham-Alabama)
 
 # Tech Events in and around Birmingham Alabama
-## UAB Tech Events
+### UAB Tech Events
 
 1. [ACM](https://uabacm.org/)
 2. [WIT](https://sites.google.com/view/wituab/)
 
-## Where to find tech events in/around Birmingham Alabama
+### Where to find tech events in/around Birmingham Alabama
 
 1. [EventBrite Birmingham Tech Events](https://www.eventbrite.com/d/al--birmingham/tech/)
 2. [TechBirmingham Event Calendar](https://hub.techbirmingham.com/calendar/)
