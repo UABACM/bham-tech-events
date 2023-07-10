@@ -1,3 +1,8 @@
+# Some resources to help you through your degree here at UAB CS
+
+## Table of Contents:
+1. [Tech Events in and around Birmingham](Tech-Events-in-and-around-Birmingham-Alabama)
+
 # Tech Events in and around Birmingham Alabama
 ## Where to find tech events in/around Birmingham Alabama
 
