@@ -1,7 +1,7 @@
 # Some resources to help you through your degree here at UAB CS
 
 ## Table of Contents:
-1. [Free Certifications and Badges](#free-certifications-,-badges-and-training)
+1. [Free Certifications and Badges](#free-certifications-badges-and-training)
 2. [Tech Events in and around Birmingham](#Tech-Events-in-and-around-Birmingham-Alabama)
 
 # Tech Events in and around Birmingham Alabama
